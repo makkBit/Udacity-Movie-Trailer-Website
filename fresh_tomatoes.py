@@ -160,7 +160,7 @@ main_page_content = '''
           </div>
       </div>
       <div class="col-md-12 col-xs-12 col-sm-12 text-center">
-              <p class="foot-text">Developed By : <a target="_blank" href="http://twitter.com/makkBit">Mahak</a></p>
+              <p class="foot-text">Developed By : <a target="_blank" href="http://twitter.com/makk_bit">Mahak</a></p>
       </div>
   </div>
 </footer>
